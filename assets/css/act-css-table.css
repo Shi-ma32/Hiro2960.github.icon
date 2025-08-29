@@ -1,0 +1,13 @@
+table {
+    border: 2px solid black;
+    text-align: center;
+    border-collapse: separate;
+    font-family: sans-serif;
+}    
+
+
+
+th {
+    color: white;
+    background-color: #fc8a8a;
+}

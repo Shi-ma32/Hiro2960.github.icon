@@ -1,0 +1,34 @@
+/*UNIVERSAL SELECTOR  */
+*{
+    background-color: aquamarine;
+}
+
+/* ELEMENT SELECTOR */
+p {
+    background-color: chocolate;
+}
+
+/* CLASS SELECTOR */
+.heading {
+    background-color: burlywood;
+}
+/* ID SELECTOR */
+#id-selector {
+    background-color: bisque;
+}
+
+h3 {
+    color: blueviolet;
+}
+
+h5 {
+     color: chartreuse;
+}
+
+h5 {
+    color: brown;
+}
+
+h5.order {
+    color: chartreuse;
+}

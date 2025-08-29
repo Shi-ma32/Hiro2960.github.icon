@@ -1,0 +1,22 @@
+body {
+    /* BACKGROUND IMAGES */
+    /* background-image: url(../images/dog.jpg); */
+
+    /* Backgroud repeat */
+    /* background-repeat: no-repeat ; */
+    /* background-repeat: no-repeat; */
+
+    /* Background Size */
+    /* background-size: cover; */
+    /* background-size: 500px 500px; */
+
+    /* background position */
+    /* background-position: left center; */
+
+    /* Background Attachment */
+    /* background-attachment: fixed; */
+
+    /* Background Shorthand */
+    background: url(../images/rabbit.jpg) no-repeat fixed 
+    center center
+      }

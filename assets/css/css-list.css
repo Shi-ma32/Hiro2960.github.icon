@@ -1,0 +1,10 @@
+ul li {
+    list-style-type: circle;
+}
+
+ol li {
+    /* list-style-type: lower-roman; */
+
+    /* SHORT HAND */ 
+    list-style: lower-alpha inside;
+}

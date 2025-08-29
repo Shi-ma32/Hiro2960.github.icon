@@ -1,0 +1,11 @@
+table,th,td {
+    /* Table Border */
+    border: 2px solid black;
+
+    empty-cells: show;
+
+    border-collapse: separate;
+
+    /* Border Spacing */
+    border-spacing: 20px;
+}

@@ -1,0 +1,88 @@
+    .color-name {
+    /* Color Name */
+        color: red;
+    }
+    /* RGB COLOR  */
+    .rgb-color {
+        color: rgb(0,255,255);
+        /* OPACITY */
+        opacity: 0.5;
+    }
+    /* RGBA COLOR */
+    .rgba-color {
+        color: rgba(255, 0,0,0.2);
+    }
+    /* HEXCODE */
+    .hexcode {
+        color: #00ff00;
+    }
+    /*  FONT FAMILY */
+    .font-family {
+        /* font-family: serif; */
+        /* font-family: sans-serif; */
+        font-family:monospace;
+    }   
+
+    /* FONT SIZE */
+         /* font-size */
+    .font-size {
+        font-size: 100px;
+
+        /* font weight */
+        /* font-weight: bold; */
+
+        /* font style */
+        /* default */
+        font-style:normal;
+        /* font-style: italic; */
+        /* font-style:oblique; */
+    }
+
+    /* TEXT TRANSFORM */
+    .text-transform {
+        /* text-transform: uppercase; */
+        /* text-transform: lowercase; */
+        text-transform: capitalize;
+    } 
+
+    /* TEXT DECORATION */
+    .text-decoration {
+        /* text-decoration:overline; */
+        /* text-decoration:underline; */
+        text-decoration:line-through;
+    }
+
+    /* TEXT DECORATION NONE */
+    .text-decoration-none {
+        text-decoration: none;
+    }
+
+    .container { 
+        width: 500px;
+        background-color:red;
+
+        /* default */
+        /* text-align: left */
+        /* text-align: center */
+        text-decoration: right;
+    }
+
+    /* TEXT SHADOW */
+    .text-shadow {
+        text-shadow:5px 8px 10px #ffff00
+    }
+
+    /* TEXT INDENT */
+    .text-indent {
+        text-indent:100px;
+    }
+    
+    /* LETTER SPACING */
+    .letter-spacing {
+        letter-spacing: 20px;
+    }
+
+    /* WORD SPACING */
+    .word-spacing {
+        word-spacing:30px;
+    }

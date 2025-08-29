@@ -1,0 +1,84 @@
+.parent-container {
+    background-color: red;
+    height: 500px;
+    width: 500px;
+
+
+    /* Padding */
+    /* Apply All Side */
+    padding: 50px;
+
+    /* Apply Indivisual Side */
+    /* padding-top: 50px; */
+    /* padding-right: 50px; */
+    /* padding-bottom: 50px; */
+    /* padding-left: 50px; */
+
+    /* Short Hand */
+    /* padding: 50px 60px 70px 80px */
+    }    
+
+    /* Solid */
+    .solid {
+        /* border: 3px solid tomato ; */
+        /* border-top: 3px solid tomato ; */
+      border-bottom: 3px solid tomato ;
+    } 
+
+    /* DOTTED */
+    .dotted {
+      border: 3px dotted teal
+    }
+
+    /* Dashed */
+    .dashed {
+       border: 3px dashed seagreen
+    }
+
+    /* Double */
+    .double {
+       border: 3px double crimson
+    }
+
+    /* Groove */
+    .groove {
+        border: 3px groove purple
+    }
+
+    /* Border Radius */
+    .border-radius {
+        border-radius: 50px 
+    }
+
+    .box-shadow {
+        border: 1px solid black;
+        /* box-shadow: 10px 15px; */
+        box-shadow: 10px 15px 10px 5px #ff0000;
+    }
+
+.child-container {
+    background-color: blue;
+    height: 250px;
+    width: 250px;
+    text-align: center;
+    color: white;
+    margin-left: 100px;
+
+    /* APPLY ALL SIDE */
+    /* margin: 100px; */
+    /* margin-bottom: 50px; */
+    /* margin-left: 50px; */
+
+    /* Short Hand */
+    /* TOP RIGHT BOTTOM LEFT */
+    
+    margin: 50px 60px 70px 80px;
+    }
+
+
+.box {
+    width: 300px;
+    padding: 20px;
+    border: 5px solid #333;
+    box-sizing: content-box;
+     }
